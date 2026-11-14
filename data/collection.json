@@ -1,7 +1,21 @@
 {
-  "collection": "sunan-an-nasai",
-  "title": "Maktabah Maftoohah — Sunan an-Nasa'i",
+  "id": "sunan-an-nasai",
+  "name": "sunan-an-nasai",
+  "title": "Sunan an-Nasa'i",
   "title_ar": "سنن النسائي (المجتبى)",
-  "seeded": true,
-  "items": []
+  "author": "Imam Ahmad ibn Shu'ayb an-Nasa'i (214–303 AH)",
+  "author_ar": "الإمام أحمد بن شعيب النسائي رحمه الله",
+  "total_books": 51,
+  "total_hadiths": 5765,
+  "first_hadith": 1,
+  "last_hadith": 5758,
+  "provenance": {
+    "primary_print": "Darussalam (Riyadh) / Dar al-Ta'sil (Cairo)",
+    "editor": "Abu Ghuddah / Al-Albani / Zubair Ali Zai",
+    "vocalized_arabic": "Standard Vocalized Arabic with full tashkeel",
+    "malay_translation": "Terjemahan Lengkap Khazanah Nusantara",
+    "english_translation": "Darussalam English Translation by Nasiruddin al-Khattab"
+  },
+  "license": "Open Islamic Heritage (Non-Commercial Academic)",
+  "updated_at": "2026-11-14T15:41:13Z"
 }

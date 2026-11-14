@@ -1,0 +1,50 @@
+{
+  "collection": "sunan-an-nasai",
+  "title": "Sunan an-Nasa'i (سنن النسائي - المجتبى)",
+  "author": "Imam Ahmad ibn Shu'ayb an-Nasa'i (214–303 AH)",
+  "total_hadiths": 5765,
+  "total_books": 51,
+  "updated_at": "2026-11-14T15:41:11Z",
+  "editions": [
+    {
+      "id": "ara-nasai",
+      "name": "Arabic (Vocalized with Tashkeel)",
+      "language": "ar",
+      "description": "Standard vocalized Arabic text of Sunan an-Nasa'i with full tashkeel and scholarly gradings.",
+      "filename": "ara-nasai.json",
+      "hadith_count": 5765
+    },
+    {
+      "id": "ara-nasai1",
+      "name": "Arabic (Unvocalized Plain)",
+      "language": "ar-plain",
+      "description": "Normalized Arabic text without diacritics for fast fulltext search.",
+      "filename": "ara-nasai1.json",
+      "hadith_count": 5765
+    },
+    {
+      "id": "eng-nasai",
+      "name": "English (Darussalam Translation)",
+      "language": "en",
+      "description": "Complete English translation of Sunan an-Nasa'i published by Darussalam.",
+      "filename": "eng-nasai.json",
+      "hadith_count": 5765
+    },
+    {
+      "id": "ind-nasai",
+      "name": "Nusantara / Indonesian (Terjemahan Lengkap)",
+      "language": "ms-id",
+      "description": "Complete Nusantara translation of Sunan an-Nasa'i hadiths.",
+      "filename": "ind-nasai.json",
+      "hadith_count": 5765
+    },
+    {
+      "id": "uthumany-nasai",
+      "name": "Uthumany Comprehensive Corpus",
+      "language": "ar-en",
+      "description": "Comprehensive reference corpus with full texts for gap hadiths (125, 1368, 1369, 1372, and 3857..3938).",
+      "filename": "uthumany-nasai.json",
+      "hadith_count": 5768
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "collection": "sunan-an-nasai",
+  "title": "Sunan an-Nasa'i Scanned Editions Registry",
+  "title_ar": "فهرس النسخ المصورة والوثائقية لسنن النسائي (المجتبى)",
+  "editions": [
+    {
+      "id": "dar-al-taseel",
+      "name": "Dar al-Ta'sil Critical Edition (طبعة دار التأصيل)",
+      "year_hijri": 1433,
+      "year_gregorian": 2012,
+      "publisher": "Dar al-Ta'sil (Cairo)",
+      "description": "Premier contemporary critical edition based on multi-manuscript collation and verified chain linkages (isnad).",
+      "volumes_count": 8,
+      "archive_url": "https://archive.org/details/WAQ145564",
+      "volumes": [
+        { "volume": 1, "filename": "nasai_taseel_01.pdf", "size_mb": 11.2, "download_url": "https://archive.org/download/WAQ145564/01_145564.pdf" },
+        { "volume": 2, "filename": "nasai_taseel_02.pdf", "size_mb": 12.1, "download_url": "https://archive.org/download/WAQ145564/02_145565.pdf" },
+        { "volume": 3, "filename": "nasai_taseel_03.pdf", "size_mb": 10.8, "download_url": "https://archive.org/download/WAQ145564/03_145566.pdf" },
+        { "volume": 4, "filename": "nasai_taseel_04.pdf", "size_mb": 11.5, "download_url": "https://archive.org/download/WAQ145564/04_145567.pdf" },
+        { "volume": 5, "filename": "nasai_taseel_05.pdf", "size_mb": 10.9, "download_url": "https://archive.org/download/WAQ145564/05_145568.pdf" },
+        { "volume": 6, "filename": "nasai_taseel_06.pdf", "size_mb": 11.8, "download_url": "https://archive.org/download/WAQ145564/06_145569.pdf" },
+        { "volume": 7, "filename": "nasai_taseel_07.pdf", "size_mb": 12.4, "download_url": "https://archive.org/download/WAQ145564/07_145570.pdf" },
+        { "volume": 8, "filename": "nasai_taseel_08.pdf", "size_mb": 9.7, "download_url": "https://archive.org/download/WAQ145564/08_145571.pdf" }
+      ]
+    },
+    {
+      "id": "abu-ghuddah",
+      "name": "Tahqiq Sheikh 'Abd al-Fattah Abu Ghuddah (تحقيق الشيخ عبد الفتاح أبو غدة)",
+      "year_hijri": 1406,
+      "year_gregorian": 1986,
+      "publisher": "Maktab al-Matbu'at al-Islamiyyah (Aleppo / Beirut)",
+      "description": "Celebrated scholarly print with Sheikh Abu Ghuddah's commentary and classical footnotes (Hashiyat as-Sindi).",
+      "volumes_count": 9,
+      "archive_url": "https://archive.org/details/waq17163",
+      "volumes": [
+        { "volume": 1, "filename": "nasai_abughuddah_01.pdf", "size_mb": 14.5, "download_url": "https://archive.org/download/waq17163/01_17163.pdf" }
+      ]
+    },
+    {
+      "id": "darussalam-bilingual",
+      "name": "Darussalam Arabic-English Bilingual (دار السلام)",
+      "year_hijri": 1428,
+      "year_gregorian": 2007,
+      "publisher": "Darussalam Publishers (Riyadh)",
+      "translator": "Nasiruddin al-Khattab",
+      "description": "Standard 6-volume Arabic-English edition with complete isnad documentation and universal international numbering (1–5,758).",
+      "volumes_count": 6,
+      "archive_url": "https://archive.org/details/SunanAnNasaiVol.111160EnglishArabic",
+      "volumes": [
+        { "volume": 1, "filename": "nasai_darussalam_01.pdf", "size_mb": 42.1, "download_url": "https://archive.org/download/SunanAnNasaiVol.111160EnglishArabic/Sunan%20An%20Nasai%20Vol.%201%20-%201-1160.pdf" }
+      ]
+    }
+  ]
+}
